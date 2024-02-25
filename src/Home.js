@@ -290,7 +290,7 @@ function Home() {
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Jane Smith</td>
+      <td>Jane Smith.</td>
       <td>+9876543210</td>
       <td>Agent2</td>
       <td>2024-02-25 11:30:00</td>
@@ -298,10 +298,10 @@ function Home() {
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td >Bob Johnson</td>
+      <td >Bob Johnson.</td>
       <td>+5551234567</td>
       <td>Agent3</td>
-      <td>2024-02-26 14:15:00</td>
+      <td>2024-02-26 14:15:00 </td>
 
       <td><span class='bg-successa' style={{backgroundcolor: '#26bf941a !important',
     color: '#26bf94 !important'}}>Completed</span></td>
